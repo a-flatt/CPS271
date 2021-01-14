@@ -1,0 +1,110 @@
+adamplatt@Adams-MacBook-Pro-4 mp3 copy % ./mp3-main
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please select a math operation from the list
+1. +
+2. -
+3. *
+4. /
+5. +=
+6. -=
+7. *-
+8. /=
+9. -
+10 !
+11. ++ (prefix)
+12. ++ (postfix)
+13. -- (prefix)
+14. -- (postfix)
+15. <
+16. >
+17. <=
+18. >=
+19. ==
+20. !=
+21. !
+22. Quit
+The selection is: 5
+1/1
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please select a math operation from the list
+1. +
+2. -
+3. *
+4. /
+5. +=
+6. -=
+7. *-
+8. /=
+9. -
+10 !
+11. ++ (prefix)
+12. ++ (postfix)
+13. -- (prefix)
+14. -- (postfix)
+15. <
+16. >
+17. <=
+18. >=
+19. ==
+20. !=
+21. !
+22. Quit
+The selection is: 8
+1/1
+Please enter a fraction such as 1/2: 1/5
+Please enter a second fraction: 9/6
+Please select a math operation from the list
+1. +
+2. -
+3. *
+4. /
+5. +=
+6. -=
+7. *-
+8. /=
+9. -
+10 !
+11. ++ (prefix)
+12. ++ (postfix)
+13. -- (prefix)
+14. -- (postfix)
+15. <
+16. >
+17. <=
+18. >=
+19. ==
+20. !=
+21. !
+22. Quit
+The selection is: 6
+-39/30
+Please enter a fraction such as 1/2: 6/7
+Please enter a second fraction: 1/5
+Please select a math operation from the list
+1. +
+2. -
+3. *
+4. /
+5. +=
+6. -=
+7. *-
+8. /=
+9. -
+10 !
+11. ++ (prefix)
+12. ++ (postfix)
+13. -- (prefix)
+14. -- (postfix)
+15. <
+16. >
+17. <=
+18. >=
+19. ==
+20. !=
+21. !
+22. Quit
+The selection is: 22
+The program has ended, q/Q has been entered or an error has been identified.
+adamplatt@Adams-MacBook-Pro-4 mp3 copy % 

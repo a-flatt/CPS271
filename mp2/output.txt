@@ -1,0 +1,44 @@
+adamplatt@Adams-MacBook-Pro-4 mp2 % ./mp2
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 2/4
+Please enter the mathematical operation to perform: +
+The answer is: 8/8
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: -
+The answer is: 0/4
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: *
+The answer is: 1/4
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: /
+The answer is: 2/2
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: q
+The program has ended, q/Q has been entered or an error has been identified.
+adamplatt@Adams-MacBook-Pro-4 mp2 % ./mp2
+Please enter a fraction such as 1/2: 2/4
+Please enter a second fraction: 18/9
+Please enter the mathematical operation to perform: /
+The answer is: 18/72
+Please enter a fraction such as 1/2: 2/4
+Please enter a second fraction: 8/5
+Please enter the mathematical operation to perform: Q
+The program has ended, q/Q has been entered or an error has been identified.
+adamplatt@Adams-MacBook-Pro-4 mp2 % ./mp2
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: l
+This is an invalid operator. Please try again.
+Please enter a fraction such as 1/2: 1/2
+Please enter a second fraction: 1/2
+Please enter the mathematical operation to perform: +
+The answer is: 4/4
+Please enter a fraction such as 1/2: 2/4
+Please enter a second fraction: 5/9
+Please enter the mathematical operation to perform: q
+The program has ended, q/Q has been entered or an error has been identified.
+adamplatt@Adams-MacBook-Pro-4 mp2 % 

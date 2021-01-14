@@ -1,0 +1,19 @@
+adamplatt@Adams-MBP-4 mp1-p1 % ./mp1-p1
+Power Function:
+Please enter a base value: 8
+Please enter a power value: 4
+The result is: 4096
+
+Hours, Minutes and Seconds Function: 
+Please enter a number of hours: 2
+Please enter the number of minutes: 2
+Please enter the number of seconds: 36
+The length of time in seconds is: 7356
+Please enter a number of hours: -1
+
+Swap Function: 
+Please enter a value for x: 6
+Please enter a value for y: 3
+The original values of x and y are 6 and 3.
+The swapped values of x and y are 3 and 6.
+adamplatt@Adams-MBP-4 mp1-p1 % 

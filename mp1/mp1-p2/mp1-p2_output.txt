@@ -1,0 +1,27 @@
+adamplatt@Adams-MBP-4 mp1-p2 % ./mp1-p2
+STUDENT NAME        SCORE GRADE
+Baker, Thomas       87    B    
+Jones, Bob          99    A    
+Smith, Suzy         76    C    
+Connor, James       80    B    
+Jane, Bob           51    E    
+Jones, Tom          70    C    
+Depp, Johnny        88    B    
+Spears, Britney     97    A    
+Swift, Taylor       98    A    
+Styles, Harry       76    C    
+Potter, Harry       43    E    
+Weasley, Ron        57    E    
+Cruise, Tom         98    A    
+Crowe, Russell      99    A    
+Packer, James       67    D    
+Pocock, David       76    C    
+Hooper, Michael     75    C    
+Giteau, Mat         92    A    
+Hart, Chris         47    E    
+West, Kanye         88    B    
+
+The student(s) with the highest mark are: 
+Bob Jones with a mark of 99 and a grade of A.
+Russell Crowe with a mark of 99 and a grade of A.
+adamplatt@Adams-MBP-4 mp1-p2 % 
